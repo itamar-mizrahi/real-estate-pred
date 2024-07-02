@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Homepage from './components/Homepage';
-import SongComponent from './components/Homepage';
+import SongComponent from './components/Player';
 
 
 function App() {
