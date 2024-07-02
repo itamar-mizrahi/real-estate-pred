@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import Homepage from './components/Homepage';
+
 
 function App() {
   return (
@@ -15,8 +17,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          hello world!
         </a>
+      <Homepage />
       </header>
     </div>
   );
